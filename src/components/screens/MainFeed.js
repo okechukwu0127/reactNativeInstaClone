@@ -6,7 +6,7 @@ import {PostFeed} from '../../components/container'; //'./components/container'
 import Drawer from '../screens/Drawer'
 */
 
-class InstaClone extends Component
+class InstaClone extends Component 
 {
     render()
     {
@@ -39,4 +39,3 @@ const styles = StyleSheet.create({
 })
 
 export default  InstaClone;
-
